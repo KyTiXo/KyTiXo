@@ -6,7 +6,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b>Kyle aka KyTiXo</b>
+                <b>KyTiXo</b>
         </samp>
 </h3>
 <br>
