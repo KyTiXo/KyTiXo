@@ -14,9 +14,7 @@
 <p align="center">
         <!-- Organisation  -->
         <samp>
-                「 I Code what I Design 」
-                <br>
-                「 I'm a full-stack developer and passionate ui designer from the <b>USA</b> 」
+                「 I'm a full-stack developer from the <b>USA</b> 」
                 <br>
                 <br>
         </samp>
