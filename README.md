@@ -14,7 +14,7 @@
 <p align="center">
         <!-- Organisation  -->
         <samp>
-                「 I'm a full-stack developer from the <b>USA</b> 」
+                「 I'm a senior developer at <b>Offensive Securtiy</b> and from the <b>USA</b> 」
                 <br>
                 <br>
         </samp>
