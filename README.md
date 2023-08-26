@@ -39,17 +39,10 @@
         <a href="https://github.com/kytixo?tab=repositories" target="_blank"><img alt="JavaScript"
                         src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat-square">
         </a>
-        <!-- PHP -->
-        <a href="https://github.com/kytixo?tab=repositories" target="_blank"><img alt="PHP"
-                        src="https://img.shields.io/badge/-PHP-777bb4?logo=PHP&logoColor=white&style=flat-square">
-        </a>
-       <!-- Svelte -->
+        <!-- Svelte -->
         <a href="https://github.com/kytixo?tab=repositories" target="_blank"><img alt="Svelte"
-                        src="https://img.shields.io/badge/-Svelte-777bb4?logo=PHP&logoColor=white&style=flat-square">
+                        src="https://img.shields.io/badge/-Svelte-777bb4?logo=Svelte&logoColor=white&style=flat-square">
         </a>
-
-        <br/>
-        <!-- Bash -->
         <a href="https://github.com/kytixo?tab=repositories" target="_blank"><img alt="Bash"
                         src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white">
         </a>
