@@ -104,7 +104,7 @@
     <p align="center">
         ════ ⋆★⋆ ════
         <br>
-        "Sure I'll Sign Your Mouse 👨‍💻!"
+        "Most of my work lives in GitLab 👨‍💻!"
     </p>
 </samp>
 
