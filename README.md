@@ -12,7 +12,8 @@
     <samp>
         「 Full stack engineer at <b>Offensive Security</b> in the <b>USA</b> 」
         <br>
-            I contribute to open source when I can, but most of my work lives in GitLab 👨‍💻!
+            Most of my work lives in GitLab 👨‍💻
+        <br>
         <br>
     </samp>
     <!-- Programming Languages -->
