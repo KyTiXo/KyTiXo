@@ -55,16 +55,25 @@
         <img alt="Astro" src="https://img.shields.io/badge/-Astro-FF3E00?style=flat-square&logo=Astro&logoColor=white">
     </a>
     <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
         <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square">
     </a>
     <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
         <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js&logoColor=white">
     </a>
     <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Three.js" src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=Three.js&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
         <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
     </a>
     <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
-        <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+        <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS&logoColor=white">
     </a>
     <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
         <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=SASS&logoColor=white">
@@ -76,6 +85,15 @@
         <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat-square">
     </a>
     <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Bun" src="https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=Bun&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
         <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white">
     </a>
     <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
@@ -83,6 +101,12 @@
     </a>
     <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
         <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="PocketBase" src="https://img.shields.io/badge/-PocketBase-B8DBE4?style=flat-square&logo=PocketBase&logoColor=black">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Stripe" src="https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=Stripe&logoColor=white">
     </a>
     <br><br>
     <samp><b>Ops / hardware</b></samp>
@@ -94,10 +118,40 @@
         <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
     </a>
     <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Cloudflare Workers" src="https://img.shields.io/badge/-Cloudflare%20Workers-F38020?style=flat-square&logo=CloudflareWorkers&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=NGINX&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="GitLab CI" src="https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat-square&logo=GitLab&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
         <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=RaspberryPi&logoColor=white&style=flat-square">
     </a>
     <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
         <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+    </a>
+    <br><br>
+    <samp><b>Testing / design</b></samp>
+    <br>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Vitest" src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=Vitest&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
     </a>
 </p>
 
@@ -111,19 +165,9 @@
 
 #### Selected work
 
-<p align="center">
-<a href="https://github.com/KyTiXo/skill-doctor">
-<img style="min-width: min(100%, 350px);" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KyTiXo&repo=skill-doctor&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<a href="https://github.com/KyTiXo/sveltekit-drizzle-planetscale-vercel">
-<img style="min-width: min(100%, 350px);" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KyTiXo&repo=sveltekit-drizzle-planetscale-vercel&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
-<p align="center">
-<a href="https://github.com/KyTiXo/astro-4-tailwind-svelte">
-<img style="min-width: min(100%, 350px);" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KyTiXo&repo=astro-4-tailwind-svelte&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<a href="https://github.com/KyTiXo/ghostty-warp">
-<img style="min-width: min(100%, 350px);" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KyTiXo&repo=ghostty-warp&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [skill-doctor](https://github.com/KyTiXo/skill-doctor) | Audits and refactors Claude Code skills: 5 checks, one prioritized report, fixes only on consent. Lints SKILL.md and proposes execution tags with validation tests. | Shell |
+| [sveltekit-drizzle-planetscale-vercel](https://github.com/KyTiXo/sveltekit-drizzle-planetscale-vercel) | A simple todo app using SvelteKit, Drizzle ORM, PlanetScale, and Vercel. | SvelteKit, TypeScript |
+| [astro-4-tailwind-svelte](https://github.com/KyTiXo/astro-4-tailwind-svelte) | Astro 4 starter with Svelte, Tailwind, PostCSS, and TypeScript. Class sorting works out of the box in `.astro` and `.svelte` files. | Astro, Svelte, Tailwind |
+| [ghostty-warp](https://github.com/KyTiXo/ghostty-warp) (fork) | Ghostty terminal config with themes, presets, fonts, and tmux integration. My fork adds macOS compatibility fixes. | Shell |
