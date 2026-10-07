@@ -10,7 +10,7 @@
 <p align="center">
     <!-- Organisation  -->
     <samp>
-        「 Sr. Engineer at <b>OffSec</b>, the company behind <b>Kali Linux</b>, in the <b>USA</b> 」
+        「 Sr. Engineer at <b>OffSec</b>, the company behind <b>Kali Linux</b>, in the <b>UK</b> 」
         <br>
         <br>
     </samp>
