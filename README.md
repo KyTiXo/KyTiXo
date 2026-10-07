@@ -10,9 +10,7 @@
 <p align="center">
     <!-- Organisation  -->
     <samp>
-        「 Full stack engineer at <b>Offensive Security</b> in the <b>USA</b> 」
-        <br>
-            Most of my work lives in GitLab 👨‍💻
+        「 Sr. Engineer at <b>OffSec</b>, the company behind <b>Kali Linux</b>, in the <b>USA</b> 」
         <br>
         <br>
     </samp>
@@ -41,6 +39,9 @@
     </a>
     <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
         <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
     </a>
     <br><br>
     <samp><b>Frontend</b></samp>
@@ -78,6 +79,12 @@
     <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
         <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=SASS&logoColor=white">
     </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="TanStack" src="https://img.shields.io/badge/-TanStack-000000?style=flat-square&logo=tanstack&logoColor=white">
+    </a>
     <br><br>
     <samp><b>Backend / APIs</b></samp>
     <br>
@@ -107,6 +114,27 @@
     </a>
     <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
         <img alt="Stripe" src="https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=Stripe&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Effect" src="https://img.shields.io/badge/-Effect-000000?style=flat-square&logo=effect&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Zod" src="https://img.shields.io/badge/-Zod-408AFF?style=flat-square&logo=zod&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Drizzle ORM" src="https://img.shields.io/badge/-Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Hono" src="https://img.shields.io/badge/-Hono-E36002?style=flat-square&logo=hono&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Inertia" src="https://img.shields.io/badge/-Inertia-9553E9?style=flat-square&logo=inertia&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
     </a>
     <br><br>
     <samp><b>Ops / hardware</b></samp>
@@ -138,6 +166,12 @@
     <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
         <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
     </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Steam Deck" src="https://img.shields.io/badge/-Steam%20Deck-1A9FFF?style=flat-square&logo=steamdeck&logoColor=white">
+    </a>
     <br><br>
     <samp><b>Testing / design</b></samp>
     <br>
@@ -153,6 +187,75 @@
     <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
         <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
     </a>
+    <br><br>
+    <samp><b>Build / tooling</b></samp>
+    <br>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Vite" src="https://img.shields.io/badge/-Vite-9135FF?style=flat-square&logo=Vite&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Turborepo" src="https://img.shields.io/badge/-Turborepo-FF1E56?style=flat-square&logo=Turborepo&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="pnpm" src="https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Biome" src="https://img.shields.io/badge/-Biome-60A5FA?style=flat-square&logo=Biome&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=black">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
+    </a>
+    <br><br>
+    <samp><b>AI</b></samp>
+    <br>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Claude Code" src="https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=claudecode&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Anthropic" src="https://img.shields.io/badge/-Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Ollama" src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="MCP" src="https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white">
+    </a>
+    <br><br>
+    <samp><b>Mac / workflow</b></samp>
+    <br>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="macOS" src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=macOS&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Homebrew" src="https://img.shields.io/badge/-Homebrew-FBB040?style=flat-square&logo=Homebrew&logoColor=black">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="tmux" src="https://img.shields.io/badge/-tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="1Password" src="https://img.shields.io/badge/-1Password-0572EC?style=flat-square&logo=1password&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Raycast" src="https://img.shields.io/badge/-Raycast-FF6363?style=flat-square&logo=raycast&logoColor=white">
+    </a>
+    <a href="https://github.com/KyTiXo?tab=repositories" target="_blank">
+        <img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white">
+    </a>
 </p>
 
 <!-- Footer -->
@@ -167,7 +270,8 @@
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [quick-question](https://github.com/KyTiXo/quick-question) | Compresses noisy command output (tests, diffs, logs) before it reaches an LLM, up to ~99% token savings. Ollama, OpenAI, or a local GGUF model. Published on npm. | TypeScript, Bun |
+| [gamemode-bar](https://github.com/KyTiXo/gamemode-bar) | Native macOS menu-bar app that forces Game Mode on apps macOS does not treat as games (emulators, streaming clients) and keeps the AirDrop radio (AWDL) down to stop stutter. Homebrew cask. | Swift |
 | [skill-doctor](https://github.com/KyTiXo/skill-doctor) | Audits and refactors Claude Code skills: 5 checks, one prioritized report, fixes only on consent. Lints SKILL.md and proposes execution tags with validation tests. | Shell |
-| [sveltekit-drizzle-planetscale-vercel](https://github.com/KyTiXo/sveltekit-drizzle-planetscale-vercel) | A simple todo app using SvelteKit, Drizzle ORM, PlanetScale, and Vercel. | SvelteKit, TypeScript |
-| [astro-4-tailwind-svelte](https://github.com/KyTiXo/astro-4-tailwind-svelte) | Astro 4 starter with Svelte, Tailwind, PostCSS, and TypeScript. Class sorting works out of the box in `.astro` and `.svelte` files. | Astro, Svelte, Tailwind |
-| [ghostty-warp](https://github.com/KyTiXo/ghostty-warp) (fork) | Ghostty terminal config with themes, presets, fonts, and tmux integration. My fork adds macOS compatibility fixes. | Shell |
+| [cmux-1password](https://github.com/KyTiXo/cmux-1password) | 1Password secret picker for tmux, tuned for cmux. | Shell |
+| [jitpit-router](https://github.com/KyTiXo/jitpit-router) | Experimental PHP gateway that lazily builds and proxies local Bun services. | PHP |
