@@ -1,6 +1,6 @@
 <h3 align="center"><samp>&gt; Hi, I'm <b>Kyle</b></samp></h3>
 
-<p align="center"><samp>Sr. Engineer at <b>OffSec</b>, the company behind <b>Kali Linux</b>, in the <b>UK</b></samp></p>
+<p align="center"><samp>Sr. Engineer, formerly at <b>OffSec</b> (the company behind <b>Kali Linux</b>), in the <b>UK</b>. <b>Open to work.</b></samp></p>
 
 <p align="center">
     <a href="https://olmstead.dev"><img alt="Website" src="https://img.shields.io/badge/olmstead.dev-000000?logo=astro&logoColor=fff&style=flat-square"></a>
