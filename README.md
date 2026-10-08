@@ -105,13 +105,3 @@
     <a href="https://github.com/KyTiXo?tab=repositories"><img alt="Raycast" src="https://img.shields.io/badge/-Raycast-FF6363?style=flat-square&logo=raycast&logoColor=white"></a>
     <a href="https://github.com/KyTiXo?tab=repositories"><img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white"></a>
 </p>
-
-#### Selected work
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [quick-question](https://github.com/KyTiXo/quick-question) | Compresses noisy command output (tests, diffs, logs) before it reaches an LLM, up to ~99% token savings. Ollama, OpenAI, or a local GGUF model. Published on npm. | TypeScript, Bun |
-| [gamemode-bar](https://github.com/KyTiXo/gamemode-bar) | Native macOS menu-bar app that forces Game Mode on apps macOS does not treat as games (emulators, streaming clients) and keeps the AirDrop radio (AWDL) down to stop stutter. Homebrew cask. | Swift |
-| [skill-doctor](https://github.com/KyTiXo/skill-doctor) | Audits and refactors Claude Code skills: 5 checks, one prioritized report, fixes only on consent. Lints SKILL.md and proposes execution tags with validation tests. | Shell |
-| [cmux-1password](https://github.com/KyTiXo/cmux-1password) | 1Password secret picker for tmux, tuned for cmux. | Shell |
-| [jitpit-router](https://github.com/KyTiXo/jitpit-router) | Experimental PHP gateway that lazily builds and proxies local Bun services. | PHP |
